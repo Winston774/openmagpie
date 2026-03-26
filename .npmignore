@@ -1,0 +1,20 @@
+# Databases
+*.db
+*.db-shm
+*.db-wal
+
+# Demo
+src/demo.js
+
+# Development
+.claude/
+.env
+.env.*
+
+# Locks & logs
+package-lock.json
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
